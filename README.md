@@ -14,31 +14,31 @@ The program is made up of one C++ source file and can be compiled using a standa
 
 ### macOS
 Compile the program using clang++:
-///
+```
 /usr/bin/clang++ main.cpp -o main
-///
+```
 
 Run the program:
-///
+```
 ./main
-///
+```
 
 ### Linux
 Compile:
-///
+```
 g++ main.cpp -o main
-///
+```
 Run:
-///
+```
 ./main
-///
+```
 
 ## Windows
 Compile:
-///
+```
 g++ main.cpp -o main.exe
-///
+```
 Run:
-///
+```
 main.exe
-///
+```
