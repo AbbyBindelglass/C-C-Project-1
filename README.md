@@ -1,5 +1,6 @@
 # C/C++ Project 1 - Basic Syntax
 AMS 595
+
 Author: Abby Bindelglass
 
 ## Description
